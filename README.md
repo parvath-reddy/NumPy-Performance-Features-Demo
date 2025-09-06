@@ -10,6 +10,6 @@ This project compares Python lists vs NumPy arrays on:
 ### Files
 - `numpy_demo.ipynb`: Jupyter Notebook with code and explanations
 
-### Example Output
+### Output
 - Memory usage bar chart comparing Python lists and NumPy arrays
 - Timing comparisons showing how NumPy outperforms loops
